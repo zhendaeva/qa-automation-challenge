@@ -31,16 +31,16 @@ Dieses Repository enthält eine einfache vue/node web App die stellvertretend f�
 - Wenn der Nutzer auf "Termin verschieben" klickt, dann werden ihm 3 neue Optionen angeboten, von denen er sich eine aussuchen kann.
   Nachdem er seine Option ausgewählt hat, wird ihm von da an nur noch dieser Neue Termin angezeigt.
 
-## Anforderungen
+## Anforderungen (Punkte spiegeln die Priorität wieder)
 
-- Entwickle ein E2E Test setup, mit dem die Akzeptanzkriterien abdeckt werden.
+- Entwickle ein E2E Test setup, mit dem die Akzeptanzkriterien abdeckt werden. (4 Punkte)
 - Mache dir Gedanken zu deinem idealen CI/CD Konzept in Hinsicht auf die QA Automation und Dokumentiere sie (in Markdown oder ähnlichem).
-  Berücksichtige dabei, dass die Tests auch in die Pipelines der Backendservices integriert werden sollten.
+  Berücksichtige dabei, dass die Tests auch in die Pipelines der Backendservices integriert werden sollten. (4 Punkte)
 
 **Bonus Punkte**
 
-- Baue mit Github Actions eine pipeline um das Projekt zu bauen und zu starten und dann die Tests auszuführen, wenn ein Pull Request erstellt wird.
-- Berücksichtige, wie das System skaliert, wenn die Anzahl der Tests sich erhöht.
+- Baue mit Github Actions eine pipeline um das Projekt zu bauen und zu starten und dann die Tests auszuführen, wenn ein Pull Request erstellt wird. (1 Punkt)
+- Berücksichtige, wie das System skaliert, wenn die Anzahl der Tests sich erhöht. (1 Punkt)
 
 ## Getting Started
 
